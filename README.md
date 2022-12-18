@@ -1,2 +1,7 @@
 # portfolio-1
-one page portfolio
+
+## Description 
+
+A one page portfolio to showcase different sections with responsive setting.
+
+
