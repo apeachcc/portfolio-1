@@ -190,7 +190,7 @@ main {
 
 .flex-item div {
   background-color: var(--secondary);
-
+  padding: 10px 10px 10px 10px;
 }
 
 .flex-item h3 {
